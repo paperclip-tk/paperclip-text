@@ -1,10 +1,10 @@
-site_name: PaperClip Fans
-site_description: Hi~ 这里是回形针非官方的资料整理仓库. 
+site_name: 回形针PaperClip文字稿备份站
+site_description: 回形针PaperClip非官方文字稿备份站。
 
 # Repository
-repo_name: Just-Prog/paperclipfans
-repo_url: https://github.com/Just-Prog/paperclipfans
-edit_uri: https://just-prog.github.io/paperclipfans/contribution/?file=
+repo_name: paperclip-tk/paperclipfans
+repo_url: https://github.com/paperclip-tk/paperclipfans
+edit_uri: https://text.paperclip.tk/contribution/?file=
 
 # Copyright
 copyright: 
@@ -33,7 +33,9 @@ extra:
     - icon: fontawesome/brands/telegram-plane
       link: https://t.me/papercliphub
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/ipaperclip
+      link: https://github.com/paperclip-tk
+    - icon: material/email-outline
+      link: mailto:hi@paperclip.tk
 
 google_analytics:
   - UA-154880396-4
