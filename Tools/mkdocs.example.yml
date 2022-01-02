@@ -19,6 +19,7 @@ theme:
   icon: 
     logo: fontawesome/solid/paperclip
     repo: fontawesome/brands/github
+  favicon: 'favicon.ico'
   font:
     text: Roboto
     code: Roboto Mono
@@ -30,16 +31,12 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/telegram-plane
+    - type: 'telegram'
       link: https://t.me/papercliptk
-    - icon: fontawesome/brands/github-alt
+    - type: 'github'
       link: https://github.com/paperclip-tk
-    - icon: material/email-outline
+    - type: 'email'
       link: mailto:hi@paperclip.tk
-
-google_analytics:
-  - UA-154880396-4
-  - auto
 
 # Extensions
 markdown_extensions:

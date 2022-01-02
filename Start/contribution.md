@@ -37,7 +37,7 @@ paperclipfans
 
 ### 文件内容
 
-我们使用的是 Markdown 标记语言，文件内容需要遵从 Markdown 语法和 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 。
+我们使用的是 Markdown 标记语言，文件内容需要遵从 Markdown 语法和 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)。
 
 除了标准 Markdown 语法外，我们还用了一些扩展语法来增强表现力：
 
