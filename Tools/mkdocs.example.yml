@@ -2,8 +2,8 @@ site_name: 回形针PaperClip文字稿备份站
 site_description: 回形针PaperClip非官方文字稿备份站。
 
 # Repository
-repo_name: paperclip-tk/paperclipfans
-repo_url: https://github.com/paperclip-tk/paperclipfans
+repo_name: paperclip-tk/paperclip-text
+repo_url: https://github.com/paperclip-tk/paperclip-text
 edit_uri: https://text.paperclip.tk/contribution/?file=
 
 # Copyright
