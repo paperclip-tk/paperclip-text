@@ -31,11 +31,11 @@ theme:
 
 extra:
   social:
-    - type: 'telegram'
+    - icon: fontawesome/brands/telegram-plane
       link: https://t.me/papercliptk
-    - type: 'github'
+    - icon: fontawesome/brands/github-alt
       link: https://github.com/paperclip-tk
-    - type: 'email'
+    - icon: material/email-outline
       link: mailto:hi@paperclip.tk
 
 # Extensions
